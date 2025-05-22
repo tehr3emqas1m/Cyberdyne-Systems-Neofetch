@@ -1,4 +1,4 @@
-This is a Neofetch of the OS that was used to create and program the T-800 terminator ;). 
+This is a Neofetch of the OS that was used to create and program the T-800 terminator 😎😉 . 
 In order to run the neofectch, navigate the to the folder where the text file contraining the logo is
 and then run the neofetch command given in runfile_command.txt
 
